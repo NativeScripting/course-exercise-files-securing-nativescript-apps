@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "email": "alex@nuvious.com",
+            "password": "password",
+            "id": "c24c66a1-d4f7-4ef7-bbe1-d124d57a860b"
+        },
+        {
+            "email": "Alex1@nuvious.com",
+            "password": "password",
+            "id": "17b9b706-dce3-4b32-8545-69b40a90fb6a"
+        }
+    ]
+}
